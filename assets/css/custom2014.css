@@ -9,8 +9,13 @@ body{ font-family:"Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB
 .fontSize18{ font-size:18px}
 .bold{ font-weight: bold}
 
+/*带链接文本*/
 .textDecoration{ text-decoration: underline}
 .linkBlue{ color:#1D5DE1}
 .linkBlue:hover{ color:#1D5DE1}
 .linkRed{ color:#EF0004}
 .linkRed:hover{ color:#EF0004}
+
+/*列表*/
+.list01{ font-size: 12px;overflow: hidden;}
+.list01 li{ height: 22px;line-height: 22px;overflow: hidden;vertical-align: middle;}
