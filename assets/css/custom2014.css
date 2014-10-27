@@ -1,2 +1,16 @@
 body{ font-family:"Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif}
 .lead{ font-size: 16px}
+
+/*普通文本*/
+.fontSize12{ font-size:12px}
+.fontSize14{ font-size:14px}
+.fontSize15{ font-size:15px}
+.fontSize16{ font-size:16px}
+.fontSize18{ font-size:18px}
+.bold{ font-weight: bold}
+
+.textDecoration{ text-decoration: underline}
+.linkBlue{ color:#1D5DE1}
+.linkBlue:hover{ color:#1D5DE1}
+.linkRed{ color:#EF0004}
+.linkRed:hover{ color:#EF0004}
